@@ -7,6 +7,16 @@ Se usar RenPy y Game Maker Studio
 Aprendo HaxeFlixel y C# lentamente
 
 Mis Pronombres son..... Todos!!
+
+Mis juegos favoritos son Friday Night Funkin' 
+
+Geometry Dash
+
+Minecraft
+
+Postal 2
+
+La saga portal
 <!--
 **SparklyTheSparkle/SparklyTheSparkle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
