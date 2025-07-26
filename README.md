@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hola
 
+Soy Sparkly, un programador novato en el desarrollo de juegos y un homosexual de manual -w-
+
+Se usar RenPy y Game Maker Studio
+
+Aprendo HaxeFlixel y C# lentamente
+
+Mis Pronombres son..... Todos!!
 <!--
 **SparklyTheSparkle/SparklyTheSparkle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
