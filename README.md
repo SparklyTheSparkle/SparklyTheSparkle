@@ -18,6 +18,8 @@ Postal 2
 
 La saga portal
 
+prueba pedorra 1
+
 <img width="1000" height="1000" alt="1 sin título_20250726051718" src="https://github.com/user-attachments/assets/9daa6db5-b436-40ac-a322-9c4a9a75cb85" />
 
 <!--
